@@ -9,4 +9,4 @@ That's all! You're ready to start your own business. settordici™ is automatica
 
 ##
 
-Settordici follows the responsibility sponsorship principle, introduced by [@uochi](https://github.com/uochi) in 2017.
+Settordici follows the *responsibility sponsorship principle*, introduced by [@uochi](https://github.com/uochi) in 2017.
